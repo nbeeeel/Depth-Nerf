@@ -1,0 +1,5 @@
+tensorflow
+glob2
+matplotlib
+imageio-ffmpeg
+numpy
